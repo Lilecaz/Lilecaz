@@ -49,7 +49,7 @@ A full-featured web platform for users to exchange items with account management
 
 ## 🧰 Tech & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,ts,js,py,java,spring,docker,mysql,streamlit,git,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,ts,js,py,java,spring,docker,mysql,git,vscode)
 
 ---
 
