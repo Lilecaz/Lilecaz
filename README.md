@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Celil!
 
-🎓 Junior SAP Fiori Developer at Enedis  
-💻 Passionate about web development, user experience, and building impactful tools  
-🚀 Currently exploring augmented reality, energy data, and full-stack architectures  
-🌱 Always learning – React, Next.js, Python, Node.js, SAP, and more
+🎓 Computer Engineer passionate about software development and building impactful digital solutions  
+💻 Interested in web technologies, user experience, and full-stack architectures  
+🚀 Currently exploring augmented reality, energy data, and modern backend frameworks  
+🌱 Always learning – React, Next.js, Python, Node.js, NestJS, and more
 
 ---
 
@@ -22,15 +22,16 @@ A modern web app that simulates and analyzes electric cable temperature evolutio
 
 ---
 
-### 📈 [Crypto Investment Analyzer](https://github.com/Lilecaz/invests)
-A simple yet powerful Streamlit app that analyzes crypto investments from CSV input.
+### 📚 [BOOK-API](https://github.com/Lilecaz/book-api)  
+A RESTful API built with NestJS for managing books and users, featuring JWT authentication, user management, and full CRUD operations. Uses JSON files for data storage, ideal for demos or prototyping. Includes Swagger documentation for easy API exploration.
 
-**What It Does**  
-- Parses crypto transaction history  
-- Computes totals, gains/losses, fees, and trends  
-- Displays insights via clean Streamlit interface
+**Key Features**  
+- JWT authentication and secure user login  
+- Full CRUD for books management  
+- Data stored in JSON for simplicity and portability  
+- Auto-generated Swagger API documentation  
 
-**Stack**: Python, Streamlit
+**Stack**: NestJS, TypeScript, JWT, Swagger
 
 ---
 
