@@ -56,8 +56,8 @@ A full-featured web platform for users to exchange items with account management
 ## 📫 Connect with Me
 
 📄 [My Resume](https://...)  
-🔗 [LinkedIn]((https://www.linkedin.com/in/celilyilmaz90/))  
-📬 [Email me](lilecaz0090@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/celilyilmaz90/)  
+📬 [Email me](mailto:lilecaz0090@gmail.com)
 
 ---
 
